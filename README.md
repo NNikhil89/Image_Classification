@@ -1,1 +1,1 @@
-# Image_Classification
+Developed a sophisticated Convolutional Neural Network (CNN) model for the automated classification of dog heart sizes into small, medium, and large categories. This model significantly enhances the accuracy and efficiency of veterinary diagnostics, offering a robust tool for early detection and treatment of canine cardiac conditions by aligning clinical metrics with deep learning techniques.
